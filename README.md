@@ -1,4 +1,6 @@
 # Predict-Future-Sales-of-Russian-Software-Firm---1C-Company
+Machine Learning-based Sales Forecasting for a Leading Russian Software Firm: A Case Study of 1C Company
+
 In this project, I worked with a challenging time-series dataset consisting of daily sales data, provided by one of the largest Russian software firms - 1C Company.  
 Link: https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview
 
